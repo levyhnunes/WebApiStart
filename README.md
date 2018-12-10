@@ -4,6 +4,7 @@
 <li>WebAPI (C#) .NET 4.6.1</li>
 <li>AutoMapper</li>
 <li>Entity Framework 6</li>
+<li>Ninject</li>
 
 # Architecture
 <li>DDD</li>
